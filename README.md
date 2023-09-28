@@ -30,6 +30,11 @@ THEN the saved events persist
 
 ## Mock Up
 
+![image](https://github.com/mradison/Third-Party-API-Scheduler/assets/58490851/7a8f6c18-38fe-4489-8516-b9a2315c0ecc)
+
+https://mradison.github.io/Third-Party-API-Scheduler/
+
+
 ## Notes
 
 Here are some websites I used to help me with my assignment: (I also got help from my instructor, TA and Tutor):
@@ -57,6 +62,3 @@ https://www.shecodes.io/athena/27498-how-to-convert-unix-timestamp-to-date-and-t
 https://www.youtube.com/watch?v=OvRFRPkyd3M
 
 https://www.w3resource.com/javascript-exercises/javascript-basic-exercise-1.php
-
-
-
